@@ -7,10 +7,10 @@ export default {
   tags: ['autodocs'],
   argTypes: {
     backgroundColor: { control: 'color' },
-    size: {
-      control: { type: 'select' },
-      options: ['small', 'medium', 'large'],
-    },
+    //size: {
+    //  control: { type: 'select' },
+    //  options: ['small', 'medium', 'large'],
+    //},
   },
 };
 
